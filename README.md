@@ -6,6 +6,8 @@
 ## Screen Recording
 [Demo Screen Recording - app in action + test](https://drive.google.com/file/d/1tK8dBaZ6pyqSaFnHGSz_-LgbJTJB4wL4/view)
 
+## Demo Gif
+![demo gif for readme only](./Images/readmegifexample.gif)
 
 ## Your Task
 
